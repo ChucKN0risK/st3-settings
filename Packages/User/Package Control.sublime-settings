@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Anaconda",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Color Converter",
+		"Djaneiro",
+		"Emmet",
+		"ERB Autocomplete",
+		"FileSystem Autocompletion",
+		"GitGutter-Edge",
+		"HTML-CSS-JS Prettify",
+		"JSHint Gutter",
+		"LiveStyle",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Theme - Afterglow",
+		"W3CValidators",
+		"Zen Tabs"
+	]
+}
