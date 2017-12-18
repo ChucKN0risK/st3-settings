@@ -2,22 +2,23 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"GitGutter",
+		"JsPrettier"
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"Alignment",
-		"Anaconda",
 		"Color Highlighter",
-		"Colorsublime",
 		"CSS Color Converter",
-		"Djaneiro",
 		"Emmet",
 		"ERB Autocomplete",
 		"FileSystem Autocompletion",
-		"GitGutter-Edge",
+		"GitGutter",
+		"GitHubinator",
 		"HTML-CSS-JS Prettify",
 		"JSHint Gutter",
+		"JsPrettier",
 		"LiveStyle",
 		"Material Theme",
 		"Package Control",
@@ -31,6 +32,7 @@
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"Theme - Afterglow",
+		"Vue Syntax Highlight",
 		"W3CValidators",
 		"Zen Tabs"
 	]
